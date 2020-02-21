@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/Annie-Huang/breakout_desktop_nw/issues"
   },
-  "homepage": "https://github.com/Annie-Huang/breakout_desktop_nw#readme"
+  "homepage": "https://github.com/Annie-Huang/breakout_desktop_nw#readme",
+  "devDependencies": {
+    "nw": "^0.44.1-sdk",
+    "nw-builder": "^3.5.7"
+  }
 }
