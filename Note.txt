@@ -12,3 +12,8 @@ https://github.com/nwjs/nw.js/wiki/manifest-format
 C:\react\breakout_desktop_nw>npm init -y
 C:\react\breakout_desktop_nw>npm i nw@0.44.1-sdk nw-builder -D
 C:\react\breakout_desktop_nw\src>npm init -y
+
+C:\react\breakout_desktop_nw>npm run dev
+C:\react\breakout_desktop_nw>npm run prod
+
+npm run prod failed to run in window machine....
