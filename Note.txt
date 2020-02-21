@@ -4,3 +4,4 @@ https://github.com/Annie-Huang/breakout_desktop_nw
 
 ==============================================================
 
+C:\react\breakout_desktop_nw>npm init -y
